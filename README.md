@@ -1,5 +1,5 @@
 # Intermediate Pandas for Python Library
-This is a project-based intermediate level course which should take approximately 1 hour to finish.
+This is a task-based intermediate level notebook which should take approximately 1 hour to finish.
 
 **Task 1:** Splitting of data into subsets.
 
